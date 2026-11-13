@@ -9,4 +9,4 @@ textColor = "#1e1b4b"
 gatherUsageStats = false
 
 [server]
-headless = false
+headless = true
