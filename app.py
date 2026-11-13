@@ -5,6 +5,8 @@ All ML code lives in lab/ml_core.py (NumPy + scikit-learn + matplotlib).
 Tables/graphs are drawn as HTML/PNG so this app never calls st.dataframe / st.pyplot.
 """
 import html
+import streamlit as st
+st.write("Streamlit app started successfully!")
 
 import streamlit as st
 
